@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/potacho/the_significant_challenge/blob/master/img/top_banner.jpg)
 
-There are to possible outcomes: if the result comfirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery - _Enrico Fermi_
+There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery - _Enrico Fermi_
 
 ---
 
